@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "chatbot"
+version = "0.1.0"
+description = "Chatbot of fit-predict command on VK Hackaton"
+authors = ["myashchenko <chemist138@mail.ru>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+python-dotenv = "^1.0.1"
+vk-api = "^11.9.9"
+pydantic = "^2.7.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
