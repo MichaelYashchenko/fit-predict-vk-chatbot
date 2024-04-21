@@ -1,1 +1,1 @@
-# fit-preict-vk-chatbot
+# fit-predict-vk-chatbot
